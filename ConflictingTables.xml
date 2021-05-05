@@ -1,0 +1,13 @@
+<?xml version="1.0"encoding="UTF-8" ?>
+<root>
+<f:table f:mlns="http://w3schools/1999/xpath">
+<f:td>
+<f:tr>Table</f:tr>    
+<f:tr2>Chair</f:tr2>    
+</f:td>    
+</f:table>
+<r:table>
+<t:tr>Arm wick chair</t:tr>    
+<t:tr2>Setee</t:tr2>    
+</r:table>    
+</root>

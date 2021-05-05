@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+<book1>
+<name1>Goosebumps</name1>
+<author1>R.L Stine</author1>
+<lang1>English</lang1>
+</book1>
+<book2>
+<name2>Harry Potter</name2>
+<author2>J.K Rowling</author2>
+<lang2>English</lang2>
+</book2>
+<book3>
+<name3>EEE</name3>
+<author3>Bhattacharya</author3>
+<lang3>English</lang3>
+</book3>
+</bookstore>
