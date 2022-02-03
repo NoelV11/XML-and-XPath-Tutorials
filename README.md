@@ -7,7 +7,7 @@ XPath is incorporated with XML
 
 - XML allows the programmer to user - define tags.
 
-- XPath uses "path like" syntax to identify and navigate nodes in an XML document 
+- XPath uses "path like" syntax to identify and navigate nodes in a XML document 
 
 ## Tools Used
 
